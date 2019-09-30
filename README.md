@@ -65,7 +65,7 @@
 
 **การออกแบบ UI ในหน้าเมนูพิมพ์หมายเลขที่นั่งจอง**
 
-![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic3.png)
+![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic3.PNG)
 
 มีการใช้คีย์บอร์ดแบบ Qwerty มีปุ่มฟังชั่นเพิ่มเติมคือ Backspace และ Clear ซึ่งปุ่มเหล่านี้ผู้ใช้งานจะคุ้นเคยเพราะนิยมใช้ ทั้ง คอมพิวเตอร์และโทรศัพท์มือถือ
 
