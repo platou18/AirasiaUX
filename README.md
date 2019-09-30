@@ -55,4 +55,4 @@
 **การออกแบบ UI โดยรวมของเครื่อง Kiosk เช็คอินอัตโนมัติ**
 รูปแบบโดยรวมจะใช้พื้นหลังสีขาว ประดับด้วย Pattern รูปวงกลมซ้อน และ โลโก้ของทางแอร์เอเชีย
 
-![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic 1.png)
+![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic1.png)
