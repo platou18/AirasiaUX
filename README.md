@@ -59,13 +59,13 @@
 
 และประกอบไปด้วย UI ปุ่มแบบพื้นฐานที่ใช้ไปในทุกหน้าเมนูและส่วนต่าง ๆของเครื่องโดยจะใช้รูป สี่เหลี่ยมตัดขอบในการเข้าถึงเมนูหรือฟังชั่นหลัก และ ใช้รูปวงกลมในการ navigate เมนูต่าง ๆ อาทิเช่น ย้อนกลับ ยกเลิก ยืนยัน
 
-![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic2.png)
+![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic2.PNG)
 
 โดยปัญหาของการออกแบบสามารถแบ่งได้หลายส่วน ดังนี้
 
 **การออกแบบ UI ในหน้าเมนูพิมพ์หมายเลขที่นั่งจอง**
 
-![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic3.PNG)
+![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic3.png)
 
 มีการใช้คีย์บอร์ดแบบ Qwerty มีปุ่มฟังชั่นเพิ่มเติมคือ Backspace และ Clear ซึ่งปุ่มเหล่านี้ผู้ใช้งานจะคุ้นเคยเพราะนิยมใช้ ทั้ง คอมพิวเตอร์และโทรศัพท์มือถือ
 
