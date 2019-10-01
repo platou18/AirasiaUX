@@ -110,4 +110,4 @@
 
 ตัวอย่าง web app แสดงการแก้ไข UI ตามที่ได้ระบุข้างต้น http://bit.ly/2ofX604
 
-![alt text](https://raw.githubusercontent.com/platou18/AirasiaUX/master/Pic7.png)
+![alt text](https://i.imgur.com/jBpUzeV.png)
